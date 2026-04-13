@@ -1,0 +1,22 @@
+{
+  "name": "@skiftle/biome-config",
+  "version": "0.0.1",
+  "description": "Shared Biome configuration for Skiftle projects",
+  "exports": {
+    ".": "./biome.json"
+  },
+  "files": [
+    "biome.json"
+  ],
+  "keywords": [
+    "biome",
+    "biomeconfig",
+    "skiftle"
+  ],
+  "author": "Skiftle",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skiftle/biome-config.git"
+  }
+}
