@@ -52,7 +52,12 @@
       "style": {
         "noDescendingSpecificity": "off",
         "useConsistentCurlyBraces": "error",
-        "useImportType": "error"
+        "useImportType": {
+          "level": "error",
+          "options": {
+            "style": "separatedType"
+          }
+        }
       }
     }
   },
