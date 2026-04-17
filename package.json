@@ -15,6 +15,10 @@
   ],
   "author": "Skiftle",
   "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@10.33.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/skiftle/biome-config.git"
