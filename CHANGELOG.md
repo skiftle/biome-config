@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.7](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.6...biome-config-v0.0.7) (2026-04-17)
+
+
+### Bug Fixes
+
+* install npm v11 for OIDC trusted publisher support ([75c3521](https://github.com/skiftle/biome-config/commit/75c3521fd8bc4cfebd0ca9ce82fbbb10d2947f07))
+
 ## [0.0.6](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.5...biome-config-v0.0.6) (2026-04-17)
 
 
