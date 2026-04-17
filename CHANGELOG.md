@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.3...biome-config-v0.0.4) (2026-04-17)
+
+
+### Features
+
+* bump biome schema to 2.4.12 ([91260e2](https://github.com/skiftle/biome-config/commit/91260e279f6f786896146bde0412385587e3f5ae))
+
 ## [0.0.3](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.2...biome-config-v0.0.3) (2026-04-14)
 
 
