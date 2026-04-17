@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.4...biome-config-v0.0.5) (2026-04-17)
+
+
+### Bug Fixes
+
+* restore npm publish for release ([ef2e0af](https://github.com/skiftle/biome-config/commit/ef2e0aff35c978067775e6d0d43574a8f6f0c95f))
+
 ## [0.0.4](https://github.com/skiftle/biome-config/compare/biome-config-v0.0.3...biome-config-v0.0.4) (2026-04-17)
 
 
